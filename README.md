@@ -1,0 +1,2 @@
+# KugiRie
+KugiRie discord bot
