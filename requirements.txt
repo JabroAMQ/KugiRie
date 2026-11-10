@@ -1,0 +1,5 @@
+discord
+html2text
+python-dotenv
+requests
+PyYAML

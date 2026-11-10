@@ -1,0 +1,9 @@
+reaction: 0.03333333333  # 1/30
+
+kugiroll:
+  max_rolls: 10000
+  row_1: 0.68
+  row_2: 0.27
+  row_3: 0.045
+  row_4: 0.005
+  row_5: 0.0005

@@ -1,0 +1,5 @@
+__pycache__/
+Config/users.yaml
+Config/moderation.yaml
+.env
+launcher.bat
